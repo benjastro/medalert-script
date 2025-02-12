@@ -1,0 +1,33 @@
+{
+    "name" : "6 - 11 Can't Decide",
+    "6" : {
+            "number" : 6,
+            "name" : "I still can't decide",
+            "content" : "I know that you are interested otherwise we would have stopped talking to each other awhile ago, and I understand that you are on the fence about this. I know your health and safety is worth just over a dollar a day to you, please remember that because of this special promotion that you are getting a great value savings of over $400 dollars. So let’s go ahead and get you protected."
+        },
+    "7" : {
+            "number" : 7,
+            "name" : "Family wants me to get a system but I don’t think I need one.",
+            "content" : "I know you have been independent all your life and are probably struggling with the thought of losing some of that independence due to aging, but the reason your (Family/Friends) wants you to get a medical alert system is because (he/she) probably knows the real statistics about senior citizen medical emergencies. They may not have wanted to scare you by telling you the facts, but let me tell you some of the things that your (son/daughter) probably knows.  (Go to “How Big is the Problem Rebuttal 4”)"
+        },
+    "8" : {
+            "number" : 8,
+            "name" : "Need to speak with my Spouse/ Family.",
+            "content" : "I completely understand.  However I don’t think that any of your family would not understand that you want to protect yourself and ensure your safety in the event of an emergency.  You never know when you may need help and are unable to contact someone.  Medical alert is with you 24 hours a day, 7 days per week, 365 days per year for just over a dollar a day.  So let’s go ahead and get your equipment out to you.  Remember, you are receiving over $400 worth of equipment. So lets get you protected lets keep you safe."
+        },
+    "9" : {
+            "number" : 9,
+            "name" : "They just won’t do it without talking to …..",
+            "content" : "I agree with you, I don’t want you to make a decision without your (son/daughter/husband/kids).  I have a great idea, so just hear me out for a second, okay?  We’ll send you out the system, we will pay for the shipping, use it and get used to having the device and then make a decision on whether or not you want to keep it.  But if you and your (son/daughter/husband/ kids) decide you don’t want to keep it, return it. This way you can use it and then make a decision TOGETHER with your (son/daughter/husband/ kids) on whether or not you want to keep the system. Now, let’s go ahead and get you signed up so you can make a decision together on whether you think the system is right for you. Remember, there is no long term contract.  So lets get you protected."
+        },
+    "10" : {
+            "number" : 10,
+            "name" : "Can’t make a decision without my Spouse/Family",
+            "content" : "I’m fairly confident that they would agree that  the savings on the equipment cost and protecting yourself for just over a $1 a day is a smart decision. Remember, there is no long term contract.  So lets get you protected."
+        },
+    "11" : {
+            "number" : 11,
+            "name" : "I don’t want to make decision right now.",
+            "content" : "One of the hardest times in a seniors life is when they have to deal with the devastation of deteriorating health and loss of independence. Please understand this gives not only you, but your family and friends the peace of mind that you are safe and protected at all times . Remember, there is no long term contract.  So lets get you protected. Lets keep you safe."
+        }
+}

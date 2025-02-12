@@ -1,0 +1,53 @@
+{
+    "name" : "27 - 36 Equipment Questions",
+    "27" : {
+            "number" : 27,
+            "name" : "Are you open 24 hours a day?",
+            "content" : "Yes. Care specialists associates are available to you 24 hours a day, 7 days a week to handle your emergencies or just answer your questions. Remember, we are always just one push of a button away. So let’s get you protected."
+        },
+    "28" : {
+            "number" : 28,
+            "name" : "Do I have to program it when it arrives?",
+            "content" : "No, we take care of all that. You simply plug it into the phone jack the same way you would an answering machine and push the button to test it.  It’s that simple. So let’s get you protected."
+        },
+    "29" : {
+            "number" : 29,
+            "name" : "What do I talk to you through?",
+            "content" : "The button that you wear on the necklace activates our hands free voice console which is what we speak to you through. So let’s get you protected."
+        },
+    "30" : {
+            "number" : 30,
+            "name" : "If I call for emergency help, where does my call get answered, locally or out of state?",
+            "content" : "All calls go to the monitoring center to ensure the greatest level of service. We store all your local authority phone numbers in your record. In the event that you require assistance, we will notify parties responsible to go to your home. This information is verified by our data entry group before the system is sent to you. We pride ourselves at being the best in the business. So let’s get you protected."
+        },
+    "31" : {
+            "number" : 31,
+            "name" : "Where are you located?  Do you operate your own monitoring center?",
+            "content" : "(Company Name) uses UL listed monitoring centers, staffed with highly trained care specialists at our secure facility in Syracuse, NY.  From there we monitor customers from all over the United States. So let’s get you protected."
+        },
+    "32" : {
+            "number" : 32,
+            "name" : "Are your operators fully trained and qualified?",
+            "content" : "All of the care specialists complete many hours of classroom training before they ever take a phone call. All Medical Alert specialists are CSAA (Central Station Alarm Association) certified. Our specialists exceed the highest standard for monitoring center personnel, plus supervisors are always present to ensure that calls are handled properly. So let’s get you protected."
+        },
+    "33" : {
+            "number" : 33,
+            "name" : "Does the call go directly to 911?",
+            "content" : "That’s a great question. We can contact 911 immediately if that’s what you want.  You may also chose a different set of instructions but it’s totally up to you.  When you receive the system, you will set up instructions for us to follow and that’s what we will do if you press the button. The choices are all yours. So, if you want a son, daughter, or anyone else called first, we will follow whatever instructions you gave us at the time you activated your system. So let’s get you protected."
+        },
+    "34" : {
+            "number" : 34,
+            "name" : "What if I’m in a different room?",
+            "content" : "The speaker is extremely loud and the microphone is very sensitive.  When you first receive the system we will test it with you so you will know it works. The system  works anywhere you are in the United States. So let’s get you protected."
+        },
+    "35" : {
+            "number" : 35,
+            "name" : "What happens if I can’t speak or be heard?",
+            "content" : "If we can’t hear you, we will follow the instructions you gave us ahead of time when you activated you system. We will call friends, family, loved ones, 911 in whatever order you instructed us to call them at the time you activated your system. You will tell us who to contact first in the event that you are unable to speak or we can’t hear you. Again, the choices are all yours. So let’s get you protected."
+        },
+    "36" : {
+            "number" : 36,
+            "name" : "Is the system automatically tested?",
+            "content" : "The console test’s itself every week by sending us a signal. Additionally we recommend that you push your help button at least once a month and talk to us for further reassurance. So let’s get you protected. "
+        }    
+}

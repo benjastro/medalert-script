@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    height: 100%;
+}
+
+#left-panel {
+    overflow-y: scroll;
+    box-sizing: border-box;
+    padding: 6px;
+    min-width: 300px;
+    resize: horizontal;
+}
+
+#right-panel {
+    position: sticky;
+    height: 100%;
+    min-width: 350px;
+    flex: 1 2 350px;
+    display: flex;
+    word-wrap: break-word;
+}

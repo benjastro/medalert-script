@@ -1,0 +1,43 @@
+{
+    "name" : "19 - 26 Card Information",
+    "19" : {
+            "number" : 19,
+            "name" : "If it’s free why do you need my credit card/checking account information?",
+            "content" : "Please understand that even though we provide you the equipment, which is valued at over $400 dollars, we would need to have a billing method on file for the monthly monitoring of only $44.95. That breaks down to just over a $1 per day and for that we guarantee you that by pushing your button at any time, day or night, 365 days a year, we will be there for you. Surely the peace of mind that it provides for you and your family is well worth the low cost of just over a $1 a day.  So let’s go ahead and get you protected."
+        },
+    "20" : {
+            "number" : 20,
+            "name" : "Can you just send me a bill every month?",
+            "content" : "We would need to have a billing method on file for the monthly monitoring cost of only $44.95 in order to send you the actual monitoring equipment which is valued at over $400 dollars.  Please remember we are providing you with the equipment, without even a charge for shipping to you.  We simply ask you to cover the monthly monitoring.  So let’s go ahead and get you protected."
+        },
+    "21" : {
+            "number" : 21,
+            "name" : "I Don’t give out my credit card over the phone. How do I know that this is not a scam? What if I don’t receive what you said I am going to receive?",
+            "content" : "Mr./Mrs._______ Have you ever heard of the Consumer Credit Protection Act? (wait) Well, it’s a series of federal laws that were passed in the United States to protect card holders. To sum it up, they say that anyone that uses their credit or debit card over the phone or the internet is not liable for any charges unless they receive exactly what was promised to them. So there is absolutely no risk whatsoever. Over 70% of all Americans use their cards over the phone or internet. Phone and internet transactions would have never grown to a massive multi-billion dollar industry without the federal law protecting the card holders. So you have nothing to worry about.  I would never ask you to use your card over the phone if you were not 100% protected by the federal credit card protection act. It’s simple, you either get exactly what you were promised or you don’t have to pay. All it takes is one call to the bank and the law says they must reverse the charges. So there is absolutely no risk to you whatsoever.  A credit or debit card is the safest way to do anything over the phone because of these federal laws.\nSo don’t worry, everything is going to be okay, we are in the business of protecting Senior Citizens. We’ve been protecting Senior Citizens for over 30 years. You will never have to feel alone in a medical emergency. So let’s go ahead and get your Complimentary Medical Alert System sent out to you!!!!"
+        },
+    "22" : {
+            "number" : 22,
+            "name" : "I don’t want to my card/account info.",
+            "content" : "I can appreciate your concerns about protecting your account information. Our main goal is to have you refer our company to other seniors so we may provide the same level of service to them as we will for you. They will thank you for that. You must agree this  service saves lives.  So let’s go ahead and get you protected."
+        },
+    "23" : {
+            "number" : 23,
+            "name" : "I’ll just send you a check",
+            "content" : "By doing an automated draft it allows this process to be seamless. Besides, this is how the banks do business. They don’t write checks to each other, they use electronic wire services and that’s why there’s no extra charge to you. Not to mention, by mailing a check you would still be providing us with this information anyways right? By enrolling with a credit card, debit card, or bank card on this call, we can provide you over $400 dollar's worth of equipment. I can’t guarantee that any other way.  Let’s go ahead and get you protected."
+        },
+    "24" : {
+            "number" : 24,
+            "name" : "If they are afraid to give their information",
+            "content" : "Don’t worry, everything is going to be okay, we are in the business of protecting Senior Citizens.  Let’s get you signed up, let’s keep you safe. We’ve been protecting Senior Citizens for over 30 years.\nYou will never have to feel alone again in a medical emergency.\nWe are going to take care of you; we’re going to keep you safe. So let’s get you registered."
+        },
+    "25" : {
+            "number" : 25,
+            "name" : "I don’t want to give my account information.",
+            "content" : "Mr. / Mrs. / Ms. ______________, Every month you allow your money to go into your bank account without worrying about it every day because you know that you are protected by the United States federal banking laws. You don't wake up each day and worry about someone robbing the bank and taking the money from your account. Why?, because you know that you are protected by the federal banking laws. Mr. / Mrs. / Ms. ______________, it doesn't matter if someone takes money from your bank account in person or fraudulently takes money from your account over the internet or over the phone because the federal banking laws protect you. So I'm not asking you to trust me or anyone else over the phone, I'm simply asking you to trust the same banking laws that you trust every month when you allow all of your money to be deposited and kept in your bank account. The federal banking laws are in place to protect you, the consumer, so you have nothing to worry about. I would never ask you to use your card or bank account information over the phone if you weren't completely protected by the consumer credit protection act and the federal banking laws. Don’t worry, everything is going to be okay, we are in the business of protecting Senior Citizens. We’ve been protecting Senior Citizens for over 30 years.  So let’s go ahead and get you signed up lets keep you safe."
+        },
+    "26" : {
+            "number" : 26,
+            "name" : "Someone else or Giving info (LAST RESORT)",
+            "content" : "If you feel that you are unable to decide on this for yourself but it’s something that you really would be interested in, I would be happy to get that person on the line so I could explain it to them so they fully understand it and you can let them know that this is something you want to do. Who makes these kinds of decisions with you? What’s their number? Lets give them a call."
+        }
+}
