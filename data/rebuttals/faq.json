@@ -2,7 +2,7 @@
     "name" : "Frequently Asked Questions",
     "question1" : {
             "name" : "What do I get or how does it work?",
-            "content": "You get a help button that communicates with the Med alert unit using a built in microphone. Also included is a bracelet, necklace and belt clip, that you can attach the help button too. If you ever need help, you simply press the button weather it’s on your wrist or around your neck and you will be instantly connected to one of our care specialists who will immediately provide the help that you need."       
+            "content": "You get a help button that communicates with the Med alert unit using a built in microphone. Also included is a bracelet, necklace and belt clip, that you can attach the help button too. If you ever need help, you simply press the button weather it's on your wrist or around your neck and you will be instantly connected to one of our care specialists who will immediately provide the help that you need."       
         },
     "question2" : {
             "name" : "Tell me about your product or how does it work?",
@@ -10,10 +10,10 @@
         },
     "question3" : {
             "name" : "What happens when I press the button?",
-            "content" : "When the help button is pressed, the call for help is sent to our monitoring center, the care specialist will speak with you through the Med alert console, which is a very sensitive speakerphone.  We will follow your instructions and call whomever you told us ahead of time to call.  If you can’t speak or we can’t hear you, we will follow the instructions you gave us."
+            "content" : "When the help button is pressed, the call for help is sent to our monitoring center, the care specialist will speak with you through the Med alert console, which is a very sensitive speakerphone.  We will follow your instructions and call whomever you told us ahead of time to call.  If you can't speak or we can't hear you, we will follow the instructions you gave us."
         },
     "question4" : {
             "name" : "What information goes into your computer?",
-            "content" : "It’s entirely up to you. We will input whatever information you wish to provide in terms of medical records, who to contact when and in what particular order. This is very important, because by having all your medical conditions and medical records on file, it will allow the emergency responders to know the best way to treat you if they need to go to your home. Knowing someone’s medical conditions before you treat them can be the difference of life or death in a medical emergency. So let’s get you protected."
+            "content" : "It's entirely up to you. We will input whatever information you wish to provide in terms of medical records, who to contact when and in what particular order. This is very important, because by having all your medical conditions and medical records on file, it will allow the emergency responders to know the best way to treat you if they need to go to your home. Knowing someone's medical conditions before you treat them can be the difference of life or death in a medical emergency. So let's get you protected."
         }
 }

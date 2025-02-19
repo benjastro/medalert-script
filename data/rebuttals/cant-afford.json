@@ -1,18 +1,18 @@
 {
-    "name" : "12 - 14 Can't Afford",
-    "12" : {
-            "number" : 12,
-            "name" : "I can't afford",
-            "content" : "I understand completely. In these tough economic times I can appreciate that things are tight. However, Medical alert is only just over a dollar a day and that covers you in the event of an emergency where you may not be able to contact a friend or family member. What happens if you have an emergency situation at 3 or 4 in the morning? Med alert will be there for you at the push of a button and will initiate help within seconds. You can’t afford to be without it, so let’s get you protected."
+    "name" : "7 - 9 Can't Afford",
+    "7" : {
+            "number" : 7,
+            "name" : "I can't afford it.",
+            "content" : "I understand completely. In these tough economic times I can appreciate that things are tight. However, Medical alert is only just over a dollar a day and that covers you in the event of an emergency where you may not be able to contact a friend or family member. What happens if you have an emergency situation at 3 or 4 in the morning? Med alert will be there for you at the push of a button and will initiate help within seconds. You can't afford to be without it, so let's get you protected."
         },
-    "13" : {
-            "number" : 13,
-            "name" : "I am on a fixed Income and can’t afford it.",
-            "content" : "Is your health and safety, or maybe even your life not worth just over a dollar a day to you or your family? Please remember that we are sending you over $400 dollars’ worth of  complimentary equipment.  I’m sure that once you inform your family that you would like to do this and could use a little help with the $44.95 monthly monitoring cost that they would be happy to help.  So let’s get you protected."
+    "8" : {
+            "number" : 8,
+            "name" : "I am on a fixed Income and can't afford it.",
+            "content" : "Is your health and safety, or maybe even your life not worth just over a dollar a day to you or your family? Please remember that we are sending you over $400 dollars' worth of  complimentary equipment.  I'm sure that once you inform your family that you would like to do this and could use a little help with the $44.95 monthly monitoring cost that they would be happy to help.  So let's get you protected."
         },
-    "14" : {
-            "number" : 14,
-            "name" : "If they say they can’t afford it.",
-            "content" : "This is the most important bill you may ever have. If you don’t survive a medical emergency then you won’t be around to pay any of those other bills. So let’s get you signed up and start keeping you safe” so let’s get you protected."
+    "9" : {
+            "number" : 9,
+            "name" : "If they say they can't afford it.",
+            "content" : "This is the most important bill you may ever have. If you don't survive a medical emergency then you won't be around to pay any of those other bills. So let's get you signed up and start keeping you safe” so let's get you protected."
         }
 }

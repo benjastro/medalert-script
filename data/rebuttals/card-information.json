@@ -1,43 +1,38 @@
 {
-    "name" : "19 - 26 Card Information",
+    "name" : "13 - 19 Card Information",
+    "13" : {
+            "number" : 13,
+            "name" : "If it's free why do you need my credit card/checking account information?",
+            "content" : "Please understand that even though we provide you the equipment, which is valued at over $400 dollars, we would need to have a billing method on file for the monthly monitoring of only $44.95. That breaks down to just over a $1 per day and for that we guarantee you that by pushing your button at any time, day or night, 365 days a year, we will be there for you. Surely the peace of mind that it provides for you and your family is well worth the low cost of just over a $1 a day.  So let's go ahead and get you protected."
+        },
+    "14" : {
+            "number" : 14,
+            "name" : "Can you just send me a bill every month?",
+            "content" : "We would need to have a billing method on file for the monthly monitoring cost of only $44.95 in order to send you the actual monitoring equipment which is valued at over $400 dollars.  Please remember we are providing you with the equipment, without even a charge for shipping to you.  We simply ask you to cover the monthly monitoring.  So let's go ahead and get you protected."
+        },
+    "15" : {
+            "number" : 15,
+            "name" : "I Don't give out my credit card over the phone. How do I know that this is not a scam? What if I don't receive what you said I am going to receive?",
+            "content" : "Mr./Mrs._______ Have you ever heard of the Consumer Credit Protection Act? (wait) Well, it's a series of federal laws that were passed in the United States to protect card holders. To sum it up, they say that anyone that uses their credit or debit card over the phone or the internet is not liable for any charges unless they receive exactly what was promised to them. So there is absolutely no risk whatsoever. Over 70% of all Americans use their cards over the phone or internet. Phone and internet transactions would have never grown to a massive multi-billion dollar industry without the federal law protecting the card holders. So you have nothing to worry about.  I would never ask you to use your card over the phone if you were not 100% protected by the federal credit card protection act. It's simple, you either get exactly what you were promised or you don't have to pay. All it takes is one call to the bank and the law says they must reverse the charges. So there is absolutely no risk to you whatsoever.  A credit or debit card is the safest way to do anything over the phone because of these federal laws.\nSo don't worry, everything is going to be okay, we are in the business of protecting Senior Citizens. We've been protecting Senior Citizens for over 30 years. You will never have to feel alone in a medical emergency. So let's go ahead and get your Complimentary Medical Alert System sent out to you!!!!"
+        },
+    "16" : {
+            "number" : 16,
+            "name" : "I don't want to give my card/account information.",
+            "content" : "Mr. / Mrs. / Ms. ______________, Every month you allow your money to go into your bank account without worrying about it every day because you know that you are protected by the United States federal banking laws. You don't wake up each day and worry about someone robbing the bank and taking the money from your account. Why?, because you know that you are protected by the federal banking laws. Mr. / Mrs. / Ms. ______________, it doesn't matter if someone takes money from your bank account in person or fraudulently takes money from your account over the internet or over the phone because the federal banking laws protect you. So I'm not asking you to trust me or anyone else over the phone, I'm simply asking you to trust the same banking laws that you trust every month when you allow all of your money to be deposited and kept in your bank account. The federal banking laws are in place to protect you, the consumer, so you have nothing to worry about. I would never ask you to use your card or bank account information over the phone if you weren't completely protected by the consumer credit protection act and the federal banking laws. (Customer Name) don't worry, everything is going to be okay, we are in the business of protecting Senior Citizens and we're going to keep you safe too. You will never feel alone in any emergency. So (Customer Name) which card would you like to use for the emergency medical technician monthly monitoring we accept Visa, Mastercard, Discover, American Express, credit or debit?"
+        },
+    "17" : {
+            "number" : 17,
+            "name" : "I WILL NOT give out my credit card over the phone.",
+            "content" : "(Customer Name) I know you might be struggling with losing some of your independence due to aging and I sincerely hope that you never need to use our service but statistically YOU WILL. Its not a matter of if you're going to have an emergency, but when and when that time comes, I can promise you this. We will be there for you at the simple push of a button and help will be on its way immediately. This device can save your life, if doctors can get to you within the first hour of an accident, heart attack or stroke your odds of your survival are as high as 80%. As the time goes on those odds go down by the minute. Doctors refer to that first hour of an accident as the golden hour. Even if you have an emergency situation at 3 or 4 in the morning when nobody is awake Medical alert will be there for you at the push of a button and will initiate help within seconds, you can't afford to be without it. (Customer Name) don't worry, everything is going to be okay, we are in the business of protecting Senior Citizens and we're going to keep you safe too. You will never feel alone in any emergency. So go get your wallet or bill fold and we'll go through the different options you have for your life saving medical alert device. You can put the phone down if you need to don't worry about me I'll be here for you when you get back. Just be careful and take your time, I get paid by the hour.  (WAIT) (WHEN THEY RETURN) Ok so (Customer Name) which card will you be using for the medical technician monthly monitoring Visa, Mastercard, Discover, American Express, credit or debit? (WAIT)"
+        },
+    "18" : {
+            "number" : 18,
+            "name" : "CUSTOMER ABSOLUTELY WILL NOT give out credit card over the phone. HARD CLOSE.",
+            "content" : "(Customer Name) I can appreciate your concerns about protecting your card information, but you know you're protected by the United States federal banking laws so there is absolutely no risk to you. Now (Customer Name) the real question you need to ask yourself is on the worst day of your life when you're laying on the ground having an emergency and simply can't get help and that caused you to die. Do you really think you yourself or your loved ones would've wanted you protected YES or NO its black and white if the answer is YES let get this processed and keep you safe.  If the answers NO then that means your life isn't worth a dollar and fourty five cents a day to yourself or anyone else, and I know IT IS.  So lets get you protected remember you can't prevent an accident or emergency but you can prepare for one would agree? (Wait) So (Customer Name) which card will you be using for the medical technician monthly monitoring Visa, Mastercard, Discover, or American Express if you need to put the phone down go get your wallet or bill fold and we'll go through the different options you have for your life saving medical alert device. You can put the phone down if you need to don't worry about me I'll be here for you when you get back. Just be careful and take your time, I get paid by the hour.  (WAIT) (WHEN THEY RETURN) Ok so (Customer Name) which card will you be using for the emergency medical technician monthly monitoring Visa, Mastercard, Discover, American Express, credit or debit? (WAIT)"
+        },
     "19" : {
             "number" : 19,
-            "name" : "If it’s free why do you need my credit card/checking account information?",
-            "content" : "Please understand that even though we provide you the equipment, which is valued at over $400 dollars, we would need to have a billing method on file for the monthly monitoring of only $44.95. That breaks down to just over a $1 per day and for that we guarantee you that by pushing your button at any time, day or night, 365 days a year, we will be there for you. Surely the peace of mind that it provides for you and your family is well worth the low cost of just over a $1 a day.  So let’s go ahead and get you protected."
-        },
-    "20" : {
-            "number" : 20,
-            "name" : "Can you just send me a bill every month?",
-            "content" : "We would need to have a billing method on file for the monthly monitoring cost of only $44.95 in order to send you the actual monitoring equipment which is valued at over $400 dollars.  Please remember we are providing you with the equipment, without even a charge for shipping to you.  We simply ask you to cover the monthly monitoring.  So let’s go ahead and get you protected."
-        },
-    "21" : {
-            "number" : 21,
-            "name" : "I Don’t give out my credit card over the phone. How do I know that this is not a scam? What if I don’t receive what you said I am going to receive?",
-            "content" : "Mr./Mrs._______ Have you ever heard of the Consumer Credit Protection Act? (wait) Well, it’s a series of federal laws that were passed in the United States to protect card holders. To sum it up, they say that anyone that uses their credit or debit card over the phone or the internet is not liable for any charges unless they receive exactly what was promised to them. So there is absolutely no risk whatsoever. Over 70% of all Americans use their cards over the phone or internet. Phone and internet transactions would have never grown to a massive multi-billion dollar industry without the federal law protecting the card holders. So you have nothing to worry about.  I would never ask you to use your card over the phone if you were not 100% protected by the federal credit card protection act. It’s simple, you either get exactly what you were promised or you don’t have to pay. All it takes is one call to the bank and the law says they must reverse the charges. So there is absolutely no risk to you whatsoever.  A credit or debit card is the safest way to do anything over the phone because of these federal laws.\nSo don’t worry, everything is going to be okay, we are in the business of protecting Senior Citizens. We’ve been protecting Senior Citizens for over 30 years. You will never have to feel alone in a medical emergency. So let’s go ahead and get your Complimentary Medical Alert System sent out to you!!!!"
-        },
-    "22" : {
-            "number" : 22,
-            "name" : "I don’t want to my card/account info.",
-            "content" : "I can appreciate your concerns about protecting your account information. Our main goal is to have you refer our company to other seniors so we may provide the same level of service to them as we will for you. They will thank you for that. You must agree this  service saves lives.  So let’s go ahead and get you protected."
-        },
-    "23" : {
-            "number" : 23,
-            "name" : "I’ll just send you a check",
-            "content" : "By doing an automated draft it allows this process to be seamless. Besides, this is how the banks do business. They don’t write checks to each other, they use electronic wire services and that’s why there’s no extra charge to you. Not to mention, by mailing a check you would still be providing us with this information anyways right? By enrolling with a credit card, debit card, or bank card on this call, we can provide you over $400 dollar's worth of equipment. I can’t guarantee that any other way.  Let’s go ahead and get you protected."
-        },
-    "24" : {
-            "number" : 24,
-            "name" : "If they are afraid to give their information",
-            "content" : "Don’t worry, everything is going to be okay, we are in the business of protecting Senior Citizens.  Let’s get you signed up, let’s keep you safe. We’ve been protecting Senior Citizens for over 30 years.\nYou will never have to feel alone again in a medical emergency.\nWe are going to take care of you; we’re going to keep you safe. So let’s get you registered."
-        },
-    "25" : {
-            "number" : 25,
-            "name" : "I don’t want to give my account information.",
-            "content" : "Mr. / Mrs. / Ms. ______________, Every month you allow your money to go into your bank account without worrying about it every day because you know that you are protected by the United States federal banking laws. You don't wake up each day and worry about someone robbing the bank and taking the money from your account. Why?, because you know that you are protected by the federal banking laws. Mr. / Mrs. / Ms. ______________, it doesn't matter if someone takes money from your bank account in person or fraudulently takes money from your account over the internet or over the phone because the federal banking laws protect you. So I'm not asking you to trust me or anyone else over the phone, I'm simply asking you to trust the same banking laws that you trust every month when you allow all of your money to be deposited and kept in your bank account. The federal banking laws are in place to protect you, the consumer, so you have nothing to worry about. I would never ask you to use your card or bank account information over the phone if you weren't completely protected by the consumer credit protection act and the federal banking laws. Don’t worry, everything is going to be okay, we are in the business of protecting Senior Citizens. We’ve been protecting Senior Citizens for over 30 years.  So let’s go ahead and get you signed up lets keep you safe."
-        },
-    "26" : {
-            "number" : 26,
-            "name" : "Someone else or Giving info (LAST RESORT)",
-            "content" : "If you feel that you are unable to decide on this for yourself but it’s something that you really would be interested in, I would be happy to get that person on the line so I could explain it to them so they fully understand it and you can let them know that this is something you want to do. Who makes these kinds of decisions with you? What’s their number? Lets give them a call."
+            "name" : "Can't make a decision without my Spouse/Family (LAST RESORT)",
+            "content" : "If you feel that you are unable to decide on this for yourself but it's something that you really would be interested in, I would be happy to get that person on the line so I could explain it to them so they fully understand it and you can let them know that this is something you want to do. Who makes these kinds of decisions with you? What's their number? Lets give them a call."
         }
 }

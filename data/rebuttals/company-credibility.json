@@ -1,23 +1,18 @@
 {
-    "name" : "15 - 18 Company Credibility",
-    "15" : {
-            "number" : 15,
+    "name" : "10 - 12 Company Credibility",
+    "10" : {
+            "number" : 10,
             "name" : "How and why is this promotion possible?",
-            "content" : "We can offer you this promotion at such a low cost because (Company Name) believes in customer loyalty. Instead of spending millions of dollars on advertisements such as TV, brochures, billboards, and radio we have chosen to take those marketing dollars and invest them in you. We are hoping that by providing you all the equipment and asking for you to simply pay the monthly monitoring, that you will hopefully you will refer other people to us which in turn generates word of mouth advertising for us. That’s the best form of advertising we can get and it makes for happier customers which is our number one goal. That makes sense to you, right? So let’s get you protected."
+            "content" : "We can offer you this promotion at such a low cost because (Company Name) believes in customer loyalty. Instead of spending millions of dollars on advertisements such as TV, brochures, billboards, and radio we have chosen to take those marketing dollars and invest them in you. We are hoping that by providing you all the equipment and asking for you to simply pay the monthly monitoring, that you will hopefully you will refer other people to us which in turn generates word of mouth advertising for us. That's the best form of advertising we can get and it makes for happier customers which is our number one goal. That makes sense to you, right? So let's get you protected."
         },
-    "16" : {
-            "number" : 16,
-            "name" : "I have never heard of your company",
-            "content" : "If we were not who we say we are there’s no way we would have lasted for over 30 years. We simply want to impress you and hope in return you will refer us to your friends and family. So let’s get you protected."
-        },
-    "17" : {
-            "number" : 17,
+    "11" : {
+            "number" : 11,
             "name" : "How do I know that this is for real?",
-            "content" : "(Company Name) has been in business for over 30 years and has thousands of satisfied customers. Please understand that our goal is to continue keeping seniors safe and healthy in their own home and deliver a quality service to every new customer as though you had been with us for years. We would not have earned our excellent reputation if we did not fulfill our services exactly as I have explained. That allows you to cancel at any time with no penalty, so that forces us to be better than expected. So let’s get you protected."
+            "content" : "(Company Name) has been in business for over 30 years and has thousands of satisfied customers. Please understand that our goal is to continue keeping seniors safe and healthy in their own home and deliver a quality service to every new customer as though you had been with us for years. We would not have earned our excellent reputation if we did not fulfill our services exactly as I have explained. That allows you to cancel at any time with no penalty, so that forces us to be better than expected. So let's get you protected."
         },
-    "18" : {
-            "number" : 18,
-            "name" : "How long have you been in business?",
-            "content" : "(Company Name) has been in business since 1987. We have provided life safety services and peace of mind to tens of thousands of people for over 30 years and are among the leaders in our field. So let’s get you protected."
-        }    
+    "12" : {
+            "number" : 12,
+            "name" : "I have never heard of your company",
+            "content" : "If we were not who we say we are there's no way we would have lasted for over 30 years. We simply want to impress you and hope in return you will refer us to your friends and family. So let's get you protected."
+        }
 }
